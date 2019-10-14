@@ -1,6 +1,6 @@
 {
   "name": "alfred-pretty-sql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format and paste SQL on clipboard",
   "author": "Martín M.",
   "license": "MIT",
