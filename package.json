@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js"
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
