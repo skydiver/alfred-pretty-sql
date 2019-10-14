@@ -26,5 +26,13 @@
   "dependencies": {
     "alfy": "^0.9.1",
     "sql-formatter": "^2.3.3"
-  }
+  },
+  "keywords": [
+    "alfred",
+    "alfred-workflow",
+    "alfred3-workflow",
+    "sql",
+    "development",
+    "alfy"
+  ]
 }
